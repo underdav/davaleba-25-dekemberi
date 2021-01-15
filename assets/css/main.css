@@ -1,0 +1,129 @@
+.display-flex {
+    display: flex;
+}
+
+.justify-content-between {
+    justify-content: space-between;
+    align-items: center;
+}
+
+.container-wide {
+    width: 88%;
+    margin: auto;
+}
+
+
+li,
+#logo-img {
+    margin: 25px;
+    margin-bottom: 40px;
+}
+
+#contact-link {
+    color: #10C9C3;
+}
+
+.container {
+    background-color: #eeeded;
+    width: 1520px;
+    height: 520px;
+}
+
+.position-absolute {
+    position: absolute;
+}
+
+.contact-info {
+    left: 115px;
+    top: 200px;
+}
+
+.header-1 {
+    font-size: 25px;
+    padding-bottom: 15px;
+    font-family: montserrat;
+}
+
+.contact-content {
+    font-size: 16px;
+    font-family: nunito_sansregular;
+    color: #787878;
+}
+
+strong {
+    color: black;
+}
+
+
+
+.contact-form {
+    top: 200px;
+    left: 730px;
+}
+
+input[type=text] {
+    border: none;
+    height: 40px;
+}
+
+#your-name,
+#your-email {
+    width: 300px;
+    padding-left: 15px;
+    margin-right: 7px;
+    font-family: nunito_sansregular;
+}
+
+#your-title {
+    width: 610px;
+    padding-left: 15px;
+    font-family: nunito_sansregular;
+
+}
+
+#your-comment {
+    width: 610px;
+    height: 170px;
+    padding-left: 15px;
+    font-family: nunito_sansregular;
+}
+
+input[type=submit] {
+    width: 180px;
+    height: 55px;
+    text-transform: uppercase;
+    background-color: #10C9C3;
+    border: none;
+    color: white;
+    cursor: pointer;
+    font-size: 12px;
+    font-family: montserrat;
+}
+
+a {
+    font-family: montserrat;
+}
+
+.footer {
+    width: 1520px;
+    height: 180px;
+    background-color: #141414;
+}
+
+#footer-h4 {
+    font-size: 18px;
+    color: white;
+    font-family: montserrat;
+    margin-top: 60px;
+    margin-left: 55px;
+    margin-bottom: 20px;
+
+}
+
+.footer-p {
+    font-size: 15px;
+    color: #BCBCBC;
+    font-family: nunito_sansregular;
+    margin-left: 55px;
+
+}

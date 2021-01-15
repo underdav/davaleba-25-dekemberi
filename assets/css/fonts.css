@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'montserrat';
+    src: url(../fonts/montserrat-medium-webfont.woff);
+    src: url(../fonts/montserrat-medium-webfont.woff2);
+    font-weight: normal;
+    font-style: normal;
+}
+
+
+@font-face {
+    font-family: 'nunito_sansregular';
+    src: url(../fonts/nunitosans-regular-webfont.woff2);
+    src: url(../fonts/nunitosans-regular-webfont.woff);
+    font-weight: normal;
+    font-style: normal;
+
+}
